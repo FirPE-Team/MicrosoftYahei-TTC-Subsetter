@@ -1,0 +1,5 @@
+# Keep this file in sync with .gitnone.
+.venv/
+__pycache__/
+*.py[cod]
+
